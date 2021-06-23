@@ -1,2 +1,5 @@
 # FullStack4582-mos
-This repository contains my JB full-stack course files.
+
+- 🌱 I’m currently learning Full-Stack web developers course
+- 
+- This repository contains my JB full-stack course files
